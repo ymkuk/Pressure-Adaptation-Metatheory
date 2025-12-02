@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "如果您在研究或出版物中使用了本理论框架，请引用以下内容："
+title: "压变元理论：一个跨尺度动态演化的认知框架"
+title-english: "Pressure-Adaptation Metatheory: A Cognitive Framework for Cross-Scale Dynamic Evolution"
+type: "framework"
+
+authors:
+  - given-names: "长有"
+    family-names: "高"
+    alias: "Gawin"
+    email: "405446579@qq.com"
+    website: "https://github.com/ymkuk"
+    affiliation: "独立研究者"
+
+
+date-released: 2025-12-02
+version: "1.0.0"
+license: "CC-BY-SA-4.0"
+repository: "https://github.com/ymkuk/Pressure-Adaptation-Metatheory"
+repository-code: "https://github.com/ymkuk/Pressure-Adaptation-Metatheory"
+
+keywords:
+  - "metatheory"
+  - "complex-systems"
+  - "evolutionary-dynamics"
+  - "interdisciplinary"
+  - "pressure-adaptation"
+  - "predictability-index"
+  - "元理论"
+  - "复杂系统"
+  - "演化动力学"
+
+identifiers:
+  - type: "url"
+    value: "https://github.com/ymkuk/Pressure-Adaptation-Metatheory"
+
+abstract: |
+  压变元理论（Pressure-Adaptation Metatheory, PAM）是一个跨学科的元理论框架，旨在为理解从生物进化到社会经济变迁的各种动态演化系统提供统一的概念基座。该框架提出了一个核心循环：压力催生应变，应变通过概率坍缩被选择，选择重塑系统并传导压力，形成新的循环。理论包含多尺度嵌套结构、可预测性评估框架和跨学科映射方法论。
+
+preferred-citation:
+  type: "manual"
+  title: "压变元理论：一个跨尺度动态演化的认知框架"
+  authors:
+    - given-names: "长有"
+      family-names: "高"
+      alias: "Gawin"
+  year: "2025"  
+  version: "1.0.0"
+  url: "https://github.com/ymkuk/Pressure-Adaptation-Metatheory"
+  note: "初始发布版本 v1.0.0 | 发布日期：2025年12月2日"
