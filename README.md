@@ -8,6 +8,13 @@
 
 [![CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
+**作者**: 高长有（Gawin）  
+**邮箱**: 405446579@qq.com  
+**GitHub**: [@ymkuk](https://github.com/ymkuk)  
+**版本**: 1.0.0  
+**发布日期**: 2025年12月2日
+
+
 ## 您可以自由：
 
 **共享** — 在任何媒介以任何形式复制、发行本作品
