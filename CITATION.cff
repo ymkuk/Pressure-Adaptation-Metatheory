@@ -1,5 +1,12 @@
 cff-version: 1.2.0
-message: "如果您在研究或出版物中使用了本理论框架，请引用以下内容："
+message: |
+  如果您在研究或出版物中使用了压变元理论(PAM)的任何部分，请引用此框架。
+  **重要提示**：本理论框架采用分层授权策略：
+  - **第一、二层（思想邀请、核心元框架）**：采用 CC BY-SA 4.0 许可
+  - **第三层（EPI与应用框架）**：采用 CC BY-NC-SA 4.0 许可，**仅供非商业用途**
+  
+  商业使用需获得作者书面授权。详情参见项目 LICENSE 文件。
+
 title: "压变元理论：一个跨尺度动态演化的认知框架"
 title-english: "Pressure-Adaptation Metatheory: A Cognitive Framework for Cross-Scale Dynamic Evolution"
 type: "framework"
@@ -15,7 +22,8 @@ authors:
 
 date-released: 2025-12-02
 version: "1.0.0"
-license: "CC-BY-SA-4.0"
+license: "CC-BY-SA-4.0 AND CC-BY-NC-SA-4.0"
+license-url: "https://github.com/ymkuk/Pressure-Adaptation-Metatheory/blob/main/LICENSE"
 repository: "https://github.com/ymkuk/Pressure-Adaptation-Metatheory"
 repository-code: "https://github.com/ymkuk/Pressure-Adaptation-Metatheory"
 
@@ -33,9 +41,13 @@ keywords:
 identifiers:
   - type: "url"
     value: "https://github.com/ymkuk/Pressure-Adaptation-Metatheory"
+  # - type: "doi"
+  #   value: "10.5281/zenodo.XXXXXXX"  # 如有需要可添加DOI
 
 abstract: |
   压变元理论（Pressure-Adaptation Metatheory, PAM）是一个跨学科的元理论框架，旨在为理解从生物进化到社会经济变迁的各种动态演化系统提供统一的概念基座。该框架提出了一个核心循环：压力催生应变，应变通过概率坍缩被选择，选择重塑系统并传导压力，形成新的循环。理论包含多尺度嵌套结构、可预测性评估框架和跨学科映射方法论。
+  
+  **授权说明**：本框架采用分层授权策略。第一、二层（哲学基础与元理论）采用 CC BY-SA 4.0 许可，鼓励传播与思辨；第三层（EPI应用框架）采用 CC BY-NC-SA 4.0 许可，仅供非商业学术与研究使用。商业应用需另行授权。
 
 preferred-citation:
   type: "manual"
@@ -46,5 +58,9 @@ preferred-citation:
       alias: "Gawin"
   year: "2025"  
   version: "1.0.0"
+  license: "CC-BY-SA-4.0 AND CC-BY-NC-SA-4.0"
   url: "https://github.com/ymkuk/Pressure-Adaptation-Metatheory"
-  note: "初始发布版本 v1.0.0 | 发布日期：2025年12月2日"
+  note: |
+    初始发布版本 v1.0.0 | 发布日期：2025年12月2日
+    授权说明：本框架采用分层授权。第一、二层（思想邀请、核心元框架）为 CC BY-SA 4.0；第三层（EPI应用框架）为 CC BY-NC-SA 4.0（仅限非商业使用）。
+    商业使用请联系作者获取授权。
