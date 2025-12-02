@@ -95,12 +95,15 @@ PAM跨学科统一理论
 ### **3.2 EPI的三层架构**
 
 #### **第一层：核心度量骨架**
-\[
+
+$$
 \text{EPI} = \frac{\text{系统确定性信号强度}}{\text{系统内在不确定性复杂度}}
-\]
-\[
+$$
+
+$$
 \text{EPI} = \frac{\alpha_1 \cdot I_{\text{signal}} + \alpha_2 \cdot G_{\text{selection}}}{\alpha_3 \cdot H_{\text{diversity}} + \alpha_4 \cdot D_{\text{complexity}} + \alpha_5 \cdot N_{\text{noise}}}
-\]
+$$
+
 
 #### **第二层：组件语义与领域实现自由**
 | 组件 | 核心语义 | 生物学实现示例（非限定） | 经济学实现示例（非限定） |
